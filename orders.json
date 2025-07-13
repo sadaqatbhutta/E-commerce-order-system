@@ -1,0 +1,13 @@
+[
+    {
+        "order_id": 1001,
+        "customer_id": 1,
+        "products": [
+            {
+                "sku": "SKU002",
+                "quantity": 3
+            }
+        ],
+        "status": "paid"
+    }
+]
